@@ -4,7 +4,7 @@
 ![Java Badge](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white)
 
-- 🔭 Desenvolvedor Backend Java/NodeJS
+- 🔭 Desenvolvedor Backend Java
 
 - 📩 Contate-me no email: jdossantospinheiro20@gmail.com
 
