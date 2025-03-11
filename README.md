@@ -8,7 +8,5 @@
 
 - 📩 Contate-me no email: jdossantospinheiro20@gmail.com
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremias-2000&layout=compact&count_private=true&theme=dracula)
-  ![](https://github-readme-stats.vercel.app/api?username=Jeremias-2000&show_icons=true&count_private=true&theme=dracula)
- ]
+]]
 
